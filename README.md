@@ -43,9 +43,7 @@ cd folder_name_given
 ```
 cd backend
 npm init
-npm install axios express cors
-npm install nodemon
-Add this command in scripts of package.json: "start":"nodemon index.js"
+npm install
 Add your secret key in index.js
 npm run start
 
